@@ -2,10 +2,10 @@
 title: XBlueSky
 subtitle: Blog
 email: tony84822@gmail.com
-description: Think a X-dimension way.
+description: My name is Tony <br /> Think a X-dimension way.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Tony
 street_address: 
 city: 
 state: 
@@ -19,11 +19,11 @@ tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/XBlueSky.0822
 github_url: https://github.com/XBlueSky
 gitlab_url: 
 googleplus_url: 
-instagram_url: 
+instagram_url: https://www.instagram.com/tony84822/
 linkedin_url: https://www.linkedin.com/in/jui-chung-hu-2a7730184/
 pinterest_url:
 slack_url:
